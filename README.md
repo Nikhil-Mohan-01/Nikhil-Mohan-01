@@ -1,14 +1,86 @@
-# 💫 About Me:
-🔭 I’m currently working on a game called "Cube Hero Odyssey" which is released on Desktop, Web, and Mobile<br>👯 I’m looking to collaborate on: Game development, web projects, machine learning, and APIs.<br>🤝 I’m looking for help with: Java, improving my physics simulations, and hardware integration for projects like Arduino.<br>🌱 I’m currently learning: Java and experimenting with 3D modeling in Blender.<br>💬 Ask me about: Game development, machine learning, Arduino projects, or anything math, physics, and chemistry-related!<br>⚡ Fun fact: I once made 100% profit margins selling custom 3D-printed ornaments for a school project!
 
+# Hey, I'm Nikhil
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nikhil_mohan07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-mohan-7787372a6/overlay/about-this-profile/) 
+**Computer Science @ University of Waterloo**  
+Software Engineering · AI/ML · Cybersecurity · Developer Tools
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+I enjoy building software that solves real problems, whether that's automating security workflows, developing AI-powered tools, or working on systems that connect software with hardware.
 
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Previously a **Cybersecurity & Software Engineering Intern at LG Energy Solution**, where I worked on security infrastructure, internal developer tools, and automation.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently exploring **AI agents, developer tooling, backend engineering, and applied security**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mohan-7787372a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil-Mohan-01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:n24mohan@uwaterloo.ca)
+
+---
+
+### Featured Projects
+
+**[Smart Model Router](https://github.com/Nikhil-Mohan-01/smart-model-router)** · TypeScript, VS Code Extension API, LLM APIs
+
+A published VS Code extension that automatically routes AI coding requests to different models based on task complexity, model preferences, and budget constraints.
+
+- Built task-aware model routing with support for OpenAI, Anthropic, Google, and GitHub Copilot.
+- Implemented usage tracking, cost estimation, and secure API key storage.
+- Published independently to the VS Code Marketplace.
+
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=NikhilMohan.smart-model-router) · [Source Code](https://github.com/Nikhil-Mohan-01/smart-model-router)
+
+**[ProtoMind](https://github.com/Nikhil-Mohan-01/ProtoMind)** · Python, LangGraph, FastAPI, Docker
+
+An autonomous multi-agent system that transforms natural-language hardware concepts into functional prototype assets.
+
+- Orchestrates parallel AI agents for CAD generation, Arduino firmware, and component sourcing.
+- Uses simulation-based verification and self-correcting retry workflows.
+- Generates structured engineering artifacts from a single user prompt.
+
+**UWSafeLine** · Python, FastAPI, PostgreSQL, Redis
+
+A backend-focused safety platform built around secure authentication, persistent data, and scalable API-driven workflows.
+
+**Pose Estimation Turret** · Python, OpenCV, MediaPipe, Arduino
+
+A computer vision project combining real-time pose estimation, facial tracking, and embedded hardware control.
+
+---
+
+### Experience
+
+**LG Energy Solution / NextStar Energy**  
+*Cybersecurity & Software Engineering Intern · May – Aug 2026*
+
+- Developed cross-platform endpoint security tools and centralized auditing infrastructure using Python, FastAPI, PowerShell, Bash, and Linux.
+- Automated an invoice reconciliation process, reducing **6+ hours of manual work to 1.78 seconds**.
+- Supported ISO 27001 audit readiness, security assessments, and internal security operations.
+
+**Paraverse Studios**  
+*Junior Software Engineer · Jun 2024 – Jan 2026*
+
+- Developed multiplayer networking and backend systems using Node.js and WebSockets.
+- Collaborated with developers and designers to deliver a multiplayer game reaching **7,000+ players**.
+
+---
+
+### Tech Stack
+
+**Languages**  
+Python · C++ · C · Java · JavaScript · TypeScript · C# · Bash · PowerShell
+
+**Backend & Databases**  
+FastAPI · Node.js · Express · REST APIs · WebSockets · PostgreSQL · Redis · MongoDB · SQLite · Firebase
+
+**AI & Machine Learning**  
+LangGraph · LangChain · PyTorch · TensorFlow · OpenCV · MediaPipe
+
+**Development & Infrastructure**  
+Git · GitHub · Docker · Linux · Azure · GCP · Playwright · VS Code · Arduino
+
+---
+
+---
+
+<p align="center">
+  <sub>Always building, experimenting, and learning something new.</sub>
+</p>
