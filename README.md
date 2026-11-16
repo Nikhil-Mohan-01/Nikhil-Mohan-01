@@ -36,9 +36,13 @@ An autonomous multi-agent system that transforms natural-language hardware conce
 - Uses simulation-based verification and self-correcting retry workflows.
 - Generates structured engineering artifacts from a single user prompt.
 
-**UWSafeLine** · Python, FastAPI, PostgreSQL, Redis
+**Watopoly** · C++20, OOP, Design Patterns, UML *(source not public per university policy)*
 
-A backend-focused safety platform built around secure authentication, persistent data, and scalable API-driven workflows.
+A complete Monopoly-style board game built entirely in C++ for a university course, with a Waterloo campus theme.
+
+- Implemented a 40-square board for 2–6 players with trading, auctions, mortgages, bankruptcy, and a command interpreter, plus save and load of game state.
+- Designed a polymorphic class hierarchy for buildings, residences, gyms, and event squares, and evaluated the Observer, Decorator, and card-style event patterns for the board, improvements, and random events.
+- Documented the design with UML models and a resilience-to-change analysis, and built a testing mode with deterministic dice and seeded randomness.
 
 **Pose Estimation Turret** · Python, OpenCV, MediaPipe, Arduino
 
