@@ -60,7 +60,7 @@ A computer vision project combining real-time pose estimation, facial tracking, 
 - Supported ISO 27001 audit readiness, security assessments, and internal security operations.
 
 **Paraverse Studios**  
-*Junior Software Engineer · Jun 2024 – Jan 2026*
+*Junior Software Engineer · Jan 2026 – April 2026*
 
 - Developed multiplayer networking and backend systems using Node.js and WebSockets.
 - Collaborated with developers and designers to deliver a multiplayer game reaching **7,000+ players**.
