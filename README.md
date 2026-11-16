@@ -13,6 +13,7 @@ Currently exploring **AI agents, developer tooling, backend engineering, and app
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-mohan-7787372a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil-Mohan-01)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:n24mohan@uwaterloo.ca)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://nikhil-mohan.vercel.app/)
 
 ---
 
